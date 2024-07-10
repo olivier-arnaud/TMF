@@ -1,0 +1,5 @@
+openapi: 3.0.1
+info:
+  title: Open Gateway Operate API - Onboarding and Ordering
+  description: toto
+  version: 5.0.0
